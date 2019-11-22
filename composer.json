@@ -1,11 +1,11 @@
 {
-    "name": "zzstudio/think-auth",
+    "name": "zhanghong/think-auth",
     "description": "The ThinkPHP5+ Auth Package",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "byron",
-            "email": "xiaobo.sun@qq.com"
+            "name": "zhanghong",
+            "email": "zhanghong_bean@126.com"
         }
     ],
     "require": {
